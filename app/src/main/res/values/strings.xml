@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyEspresso</string>
+
+    <string name="text_empty"></string>
+    <string name="text_show">Show context actionbar</string>
+    <string name="text_hide">Hide context actionbar</string>
+</resources>
