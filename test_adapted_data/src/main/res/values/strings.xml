@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestAdaptedDataApp</string>
+
+    <string name="row_label">clicked on row:</string>
+    <string name="column_label">clicked on column:</string>
+</resources>
