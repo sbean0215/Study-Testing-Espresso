@@ -1,1 +1,1 @@
-include ':test_actionbar', ':test_adapted_data'
+include ':test_actionbar', ':test_adapted_data', ':test_custom_failure_handler'
